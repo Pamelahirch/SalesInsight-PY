@@ -97,6 +97,6 @@ Como melhorias futuras, o projeto poderá incorporar novas métricas comerciais,
 
 ## 10. Demonstração em vídeo
 
-**Link do vídeo:** 
+**Link do vídeo:** https://youtube.com/shorts/oD5rLnSc2GQ?is=IsbxQsaFsdON0mzs 
 
 O vídeo apresentará o objetivo do projeto, sua execução, as principais funcionalidades, a organização do desenvolvimento e uma decisão técnica adotada durante a análise dos dados.
